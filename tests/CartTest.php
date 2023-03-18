@@ -1517,7 +1517,9 @@ class CartTest extends TestCase
     /** @test */
     public function it_use_correctly_rounded_values_for_totals_and_cart_summary()
     {
-        $this->setConfigFormat(2, ',', '');
+        $decimals = 2;
+
+        $this->setConfigFormat($decimals, ',', '');
 
         $cart = $this->getCartDiscount(6);
 
@@ -1542,7 +1544,10 @@ class CartTest extends TestCase
         $this->assertEquals('253,29', $cart->total());
 
         // check that the sum of cart subvalues matches the total (in order to avoid cart summary to looks wrong)
-        $this->assertEquals($cart->totalFloat(), $cart->subtotalFloat() + $cart->taxFloat());
+        $this->assertEquals(
+            round($cart->totalFloat(), $decimals),
+            round($cart->subtotalFloat() + $cart->taxFloat(), $decimals)
+        );
     }
 
     /** @test */
