@@ -1,27 +1,21 @@
-# Attention
-Due to the difficulty experienced by certain individuals and companies in comprehending the [copyleft provision of the MIT license](https://github.com/bumbummen99/LaravelShoppingcart/blob/1c50fb564826b6ee748d2d9afad7447b6884166e/LICENSE#L12), as evidenced by the unauthorized relicensing of my work and that of others, I have opted to terminate all further development and assistance for this repository. Given that this package is intended for use in e-commerce projects, it is expected that the necessary resources would be available for the development and support of your own solutions.
-
 
 ## LaravelShoppingcart
-![CI Code Checks](https://github.com/bumbummen99/LaravelShoppingcart/workflows/CI%20Code%20Checks/badge.svg?branch=master)
-[![codecov](https://codecov.io/gh/bumbummen99/LaravelShoppingcart/branch/master/graph/badge.svg)](https://codecov.io/gh/bumbummen99/LaravelShoppingcart)
-[![StyleCI](https://styleci.io/repos/152610878/shield?branch=master)](https://styleci.io/repos/152610878)
-[![Total Downloads](https://poser.pugx.org/bumbummen99/shoppingcart/downloads.png)](https://packagist.org/packages/bumbummen99/shoppingcart)
-[![Latest Stable Version](https://poser.pugx.org/bumbummen99/shoppingcart/v/stable)](https://packagist.org/packages/bumbummen99/shoppingcart)
-[![Latest Unstable Version](https://poser.pugx.org/bumbummen99/shoppingcart/v/unstable)](https://packagist.org/packages/bumbummen99/shoppingcart)
-[![License](https://poser.pugx.org/bumbummen99/shoppingcart/license)](https://packagist.org/packages/bumbummen99/shoppingcart)
+[![codecov](https://codecov.io/gh/anayarojo/laravel-shopping-cart/branch/master/graph/badge.svg)](https://codecov.io/gh/anayarojo/laravel-shopping-cart)
+[![Latest Stable Version](https://poser.pugx.org/anayarojo/shoppingcart/v/stable)](https://packagist.org/packages/anayarojo/shoppingcart)
+[![Latest Unstable Version](https://poser.pugx.org/anayarojo/shoppingcart/v/unstable)](https://packagist.org/packages/anayarojo/shoppingcart)
+[![License](https://poser.pugx.org/anayarojo/shoppingcart/license)](https://packagist.org/packages/anayarojo/shoppingcart)
 
-This is a fork of [Crinsane's LaravelShoppingcart](https://github.com/Crinsane/LaravelShoppingcart) extended with minor features compatible with Laravel 8+. An example integration can be [found here](https://github.com/bumbummen99/LaravelShoppingcartDemo).
+This is a temporary fork of [bumbummen99's LaravelShoppingcart](https://github.com/bumbummen99/LaravelShoppingcart) extended with minor features compatible with Laravel 10+. An example integration can be [found here](https://github.com/bumbummen99/LaravelShoppingcartDemo).
 
 ## Installation
 
-Install the [package](https://packagist.org/packages/bumbummen99/shoppingcart) through [Composer](http://getcomposer.org/). 
+Install the [package](https://packagist.org/packages/anayarojo/shoppingcart) through [Composer](http://getcomposer.org/). 
 
 Run the Composer require command from the Terminal:
 
-    composer require bumbummen99/shoppingcart
+    composer require anayarojo/shoppingcart
 
-Now you're ready to start using the shoppingcart in your application.
+Now you're ready to start using the Laravel Shopping Cart in your application.
 
 **As of version 2 of this package it's possibly to use dependency injection to inject an instance of the Cart class into your controller or other class**
 
@@ -733,28 +727,6 @@ Cart::add('1239ad0', 'Product 2', 2, 5.95, ['size' => 'large']);
    	</tfoot>
 </table>
 ```
-
-## Collaborators
-
-<!-- readme: collaborators -start -->
-<table>
-<tr>
-    <td align="center">
-        <a href="https://github.com/bumbummen99">
-            <img src="https://avatars.githubusercontent.com/u/4533331?v=4" width="100;" alt="bumbummen99"/>
-            <br />
-            <sub><b>Patrick</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/Sartoric">
-            <img src="https://avatars.githubusercontent.com/u/6607379?v=4" width="100;" alt="Sartoric"/>
-            <br />
-            <sub><b>Sartoric</b></sub>
-        </a>
-    </td></tr>
-</table>
-<!-- readme: collaborators -end -->
 
 ## Contributors
 <!-- readme: contributors -start -->
