@@ -740,17 +740,10 @@ Cart::add('1239ad0', 'Product 2', 2, 5.95, ['size' => 'large']);
 <table>
 <tr>
     <td align="center">
-        <a href="https://github.com/bumbummen99">
-            <img src="https://avatars.githubusercontent.com/u/4533331?v=4" width="100;" alt="bumbummen99"/>
+        <a href="https://github.com/anayarojo">
+            <img src="https://avatars.githubusercontent.com/u/6903495?v=4" width="100;" alt="anayarojo"/>
             <br />
-            <sub><b>Patrick</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/Sartoric">
-            <img src="https://avatars.githubusercontent.com/u/6607379?v=4" width="100;" alt="Sartoric"/>
-            <br />
-            <sub><b>Sartoric</b></sub>
+            <sub><b>Raul Anaya Rojo</b></sub>
         </a>
     </td></tr>
 </table>
@@ -796,13 +789,20 @@ Cart::add('1239ad0', 'Product 2', 2, 5.95, ['size' => 'large']);
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/anayarojo">
+            <img src="https://avatars.githubusercontent.com/u/6903495?v=4" width="100;" alt="anayarojo"/>
+            <br />
+            <sub><b>Raul Anaya Rojo</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
         <a href="https://github.com/ChrisThompsonTLDR">
             <img src="https://avatars.githubusercontent.com/u/348801?v=4" width="100;" alt="ChrisThompsonTLDR"/>
             <br />
             <sub><b>Chris Thompson</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/Jam-Iko">
             <img src="https://avatars.githubusercontent.com/u/44161368?v=4" width="100;" alt="Jam-Iko"/>
@@ -837,15 +837,15 @@ Cart::add('1239ad0', 'Product 2', 2, 5.95, ['size' => 'large']);
             <br />
             <sub><b>Sartoric</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/macbookandrew">
             <img src="https://avatars.githubusercontent.com/u/784333?v=4" width="100;" alt="macbookandrew"/>
             <br />
             <sub><b>Andrew Minion</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/dtwebuk">
             <img src="https://avatars.githubusercontent.com/u/6045378?v=4" width="100;" alt="dtwebuk"/>
@@ -880,15 +880,15 @@ Cart::add('1239ad0', 'Product 2', 2, 5.95, ['size' => 'large']);
             <br />
             <sub><b>Tim Geisendörfer</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/adamgoose">
             <img src="https://avatars.githubusercontent.com/u/611068?v=4" width="100;" alt="adamgoose"/>
             <br />
             <sub><b>Adam Engebretson</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/andcl">
             <img src="https://avatars.githubusercontent.com/u/8470427?v=4" width="100;" alt="andcl"/>
@@ -923,15 +923,15 @@ Cart::add('1239ad0', 'Product 2', 2, 5.95, ['size' => 'large']);
             <br />
             <sub><b>Jeremy Vaught</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/jmarkese">
             <img src="https://avatars.githubusercontent.com/u/1827586?v=4" width="100;" alt="jmarkese"/>
             <br />
             <sub><b>John Markese</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/nexxai">
             <img src="https://avatars.githubusercontent.com/u/4316564?v=4" width="100;" alt="nexxai"/>
@@ -966,15 +966,15 @@ Cart::add('1239ad0', 'Product 2', 2, 5.95, ['size' => 'large']);
             <br />
             <sub><b>Nadir Absemetov</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/nielsiano">
             <img src="https://avatars.githubusercontent.com/u/947684?v=4" width="100;" alt="nielsiano"/>
             <br />
             <sub><b>Niels Stampe</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/4ilo">
             <img src="https://avatars.githubusercontent.com/u/15938739?v=4" width="100;" alt="4ilo"/>
@@ -1009,15 +1009,15 @@ Cart::add('1239ad0', 'Product 2', 2, 5.95, ['size' => 'large']);
             <br />
             <sub><b>Roy Duineveld</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/CaddyDz">
             <img src="https://avatars.githubusercontent.com/u/13698160?v=4" width="100;" alt="CaddyDz"/>
             <br />
             <sub><b>Salim Djerbouh</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/pendalff">
             <img src="https://avatars.githubusercontent.com/u/236587?v=4" width="100;" alt="pendalff"/>
