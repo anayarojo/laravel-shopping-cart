@@ -747,17 +747,17 @@ Cart::add('1239ad0', 'Product 2', 2, 5.95, ['size' => 'large']);
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/Norris1z">
-            <img src="https://avatars.githubusercontent.com/u/18237132?v=4" width="100;" alt="Norris1z"/>
-            <br />
-            <sub><b>Norris Oduro</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/anayarojo">
             <img src="https://avatars.githubusercontent.com/u/6903495?v=4" width="100;" alt="anayarojo"/>
             <br />
             <sub><b>Raul Anaya Rojo</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Norris1z">
+            <img src="https://avatars.githubusercontent.com/u/18237132?v=4" width="100;" alt="Norris1z"/>
+            <br />
+            <sub><b>Norris Oduro</b></sub>
         </a>
     </td>
     <td align="center">
