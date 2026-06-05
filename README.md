@@ -366,7 +366,7 @@ Cart::setGlobalDiscount(50);
 $cart->setGlobalDiscount(50);
 ```
 
-### Cart::setDiscount($rowId, $taxRate)
+### Cart::setDiscount($rowId, $discountRate)
 
 You can use the `setDiscount()` method to change the discount rate that applies a CartItem. Keep in mind that this value will be changed if you set the global discount for the Cart afterwards.
 
